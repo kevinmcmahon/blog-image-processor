@@ -1,0 +1,2 @@
+Pillow
+aws-lambda-powertools[tracer]
